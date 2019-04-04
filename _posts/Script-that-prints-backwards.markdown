@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Backwards String Project"
-date:   2019-04-04 21:03:29 -0700
+date:   2019-04-04 13:14:45 -0700
 categories: jekyll update
 ---
 
