@@ -9,7 +9,7 @@ Date: 04/04/2019
 
 I'm going to challenge myself by writing a script that takes a 'string' and returns the string printed backwards.
 
-It's going to require me to:  
+It's going to require me to:  <\br>
 1 - Set up a string to copy  
 2 - Identify each different character in the string (learn to iterate through the string)  
 3 - Assign the iterated strings from highest to lowest. (ex. 5:0) to simulate 'backwards'  
