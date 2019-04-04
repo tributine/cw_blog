@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Backwards String Project"
+date:   2019-04-04 21:03:29 -0700
+categories: jekyll update
+---
+
 Date: 04/04/2019
 
 I'm going to challenge myself by writing a script that takes a 'string' and returns the string printed backwards.
