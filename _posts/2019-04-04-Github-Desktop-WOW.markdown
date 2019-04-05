@@ -8,11 +8,18 @@ categories: jekyll update
 <br>
 ## Date: 04/04/2019 21:43<br>
 <br>
+<br>
 Just now a collaborator of mine suggested a keywork called 'GitHub Desktop'.
+<br>
 <br>
 Needless to say I'm pretty blown away with this application. Gone are the days that I visit the website link! All I need is this desktop application now suckas! 
 <br>
+<br>
 Nah, nothing is going to replace the website. But this desktop application is sleek and seems quite robust. It's got settings for everything I need. A simple click and drag into my local disk drive repository pings the desktop application to commit changes and push to origin. 
 <br>
-I'm no master of Git yet, but I know I will be as I progress through this journey. Climb with me.
+<br>
+I'm no master of Git yet, but I know I will be as I progress through this journey. 
+<br>
+<br>
+Climb with me.
 <br>
