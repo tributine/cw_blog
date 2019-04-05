@@ -66,3 +66,24 @@ Hello there, today I have successfully fulfilled my goal of reversing a string!<
 <br>
 IT WORKS!<br>
 ... !SKROW TI<br>
+
+## Update: 04/04/2019 20:29 
+
+I was requested that for other applications perhaps it would be best if the user <br>could input a string of text that would be reversed.<br>
+<br>
+So... lets do it!<br>
+<br>
+\# Name: Cw<br>
+\# Project: User inputs a string and flips it in reverse<br>
+<br>
+text = input('What would you like to reverse: ') # This is the string to be reversed<br> taken from clipboard<br>
+type(text) # User inputs a string to be reversed<br>
+textrev = '' # Reverse string variable<br>
+<br>
+\# Let's reverse THIS<br>
+<br>
+\# Create a decrementing for loop that starts from the full length - 1<br>
+for i in range((int(len(text) - 1) ),-1 ,-1): # Iterate in reverse through string<br>
+    textrev += text[i] # textrev = previous character + new character<br>
+<br>
+print(textrev) # Print the reversed string in the terminal<br>
