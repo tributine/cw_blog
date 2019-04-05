@@ -24,19 +24,19 @@ Update: 04/04/2019 18:04 <br>
 
 Successfully created a python file capable of reversing a string: <br>
 
-\# Name: Climber 
-\# Project: Takes a string and flips it in reverse 
+\# Name: Climber <br>
+\# Project: Takes a string and flips it in reverse <br>
 
-text = ['Hello my name is carr0t'] # This is the string to be reversed
-Let's reverse THIS
-
-\# Create a decrementing for loop that starts from the full length - 1
-for i in range((int(len(text[0]) - 1) ),-1 ,-1):
-    print(text[0][i], end='') # Iterate through the string character within the list
-
-\# Ex: i in range(25, -1, -1)
-    \# i would be 25 at first
-    \# print(text[0][25], end='')
-
-\# text is a list with a string. text[0] returns the string thus,
-\# text[0][i] returns the string character within the string in the list!
+text = ['Hello my name is carr0t'] # This is the string to be reversed <br>
+Let's reverse THIS <br>
+<br>
+\# Create a decrementing for loop that starts from the full length - 1 <br>
+for i in range((int(len(text[0]) - 1) ),-1 ,-1): <br>
+    print(text[0][i], end='') \# Iterate through the string character within the list <br>
+<br>
+\# Ex: i in range(25, -1, -1) <br>
+    \# i would be 25 at first <br>
+    \# print(text[0][25], end='') <br>
+<br>
+\# text is a list with a string. text[0] returns the string thus, <br>
+\# text[0][i] returns the string character within the string in the list! <br>
