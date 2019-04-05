@@ -5,8 +5,9 @@ date:   2019-04-04 13:14:45 -0700
 categories: jekyll update
 ---
 
-## Date: 04/04/2019 13:14
-
+<br>
+## Date: 04/04/2019 13:14<br>
+<br>
 I'm going to challenge myself by writing a script that takes a 'string' and returns the string printed backwards.
 
 It's going to require me to:  <br>
@@ -17,8 +18,7 @@ It's going to require me to:  <br>
 Potential ideas:  <br>
 Use pyperclip.paste() to take a string from the clipboard. When the python code is executed, using <br>  
 pyperclip.copy() it will allow the user to simply paste the backwards string in any text document.  <br>
- <br>
- <br>
+<br>
 ## Update: 04/04/2019 18:04 
 <br>
 Successfully created a python file capable of reversing a string: <br>
@@ -41,7 +41,6 @@ for i in range((int(len(text[0]) - 1) ),-1 ,-1): <br>
 \# text[0][i] returns the string character within the string in the list! <br>
 
 Now it's time to implement pyperclip, I'll see you all later  <br>
-<br>
 <br>
 ## Update: 04/04/2019 18:04 
 <br>
@@ -66,9 +65,9 @@ Hello there, today I have successfully fulfilled my goal of reversing a string!<
 <br>
 IT WORKS!<br>
 ... !SKROW TI<br>
-
+<br>
 ## Update: 04/04/2019 20:29 
-
+<br>
 I was requested that for other applications perhaps it would be best if the user <br>could input a string of text that would be reversed.<br>
 <br>
 So... lets do it!<br>
