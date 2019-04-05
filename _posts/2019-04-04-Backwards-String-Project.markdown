@@ -17,14 +17,15 @@ It's going to require me to:  <br>
 Potential ideas:  <br>
 Use pyperclip.paste() to take a string from the clipboard. When the python code is executed, using <br>  
 pyperclip.copy() it will allow the user to simply paste the backwards string in any text document.  <br>
+ <br>
+ <br>
 
+Update: 04/04/2019 18:04 <br>
 
-Update: 04/04/2019 18:04
+Successfully created a python file capable of reversing a string: <br>
 
-Successfully created a python file capable of reversing a string:
-
-# Name: Climber
-# Project: Takes a string and flips it in reverse
+# Name: Climber 
+# Project: Takes a string and flips it in reverse 
 
 text = ['Hello my name is carr0t'] # This is the string to be reversed
 # Let's reverse THIS
