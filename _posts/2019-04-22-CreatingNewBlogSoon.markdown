@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <br>
-## Date: 22/04/2019 21:43<br>
+## Date: 22/04/2019<br>
 <br>
 <br>
 Learned HTML and CSS so far, looking into starting a new blog with my own personal domain soon. This would be a huge project step for myself.
