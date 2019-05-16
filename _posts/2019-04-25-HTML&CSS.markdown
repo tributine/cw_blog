@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "HTML&CSS By Jon Duckett"
+date:   2019-04-25 21:43:00 -0700
+categories: CSS HTML
+---
+
+<br>
+## Date: 22/04/2019<br>
+<br>
+<br>
+This HTML CSS Book from Jon Duckett is pretty intuitive. It features a fresh new graphical way of learning something
+that once was originally shown in plain text. It's got all sorts of examples too and a few snippets of real world
+applications.
+
+New Blog site still underway, but for now this github.io will do.
+<br>
+<br>
+Climb with me.
+<br>
