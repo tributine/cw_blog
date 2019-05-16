@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Blog Soon"
-date:   2019-04-04 21:43:00 -0700
+date:   2019-04-22 21:43:00 -0700
 categories: jekyll update
 ---
 
